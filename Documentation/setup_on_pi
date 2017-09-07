@@ -1,0 +1,11 @@
+git clone https://github.com/jaguirre/TMon.git
+git clone https://github.com/labjack/LabJackPython.git
+
+- Need a way to connect to the outside world
+- Need sudo privileges for obs (pi has privileges with pulsar password)
+
+This is the hard part: the ExoDriver
+https://labjack.com/support/software/installers/exodriver
+https://labjack.com/support/software/installers/exodriver/mac-and-linux/in-depth-build-instructions
+
+*Looks like* nptd is running by default.  
