@@ -50,7 +50,7 @@ def aggData(cumList, dev, _list_of_registers, n_per_int):
 sPerInt = 10.
 # minutes per file
 mPerFile = 60.
-outDir = '/home/obs/TMON/Temperatures/'
+outDir = '/home/obs/TMon/Temperatures/'
 
 d = ue9.UE9()
 
